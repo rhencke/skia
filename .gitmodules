@@ -1,0 +1,108 @@
+[submodule "buildtools"]
+	path = buildtools
+	url = https://chromium.googlesource.com/chromium/buildtools.git
+[submodule "common"]
+	path = common
+	url = https://skia.googlesource.com/common.git
+[submodule "third_party/externals/angle2"]
+	path = third_party/externals/angle2
+	url = https://chromium.googlesource.com/angle/angle.git
+[submodule "third_party/externals/brotli"]
+	path = third_party/externals/brotli
+	url = https://skia.googlesource.com/external/github.com/google/brotli.git
+[submodule "third_party/externals/d3d12allocator"]
+	path = third_party/externals/d3d12allocator
+	url = https://skia.googlesource.com/external/github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator.git
+[submodule "third_party/externals/dawn"]
+	path = third_party/externals/dawn
+	url = https://dawn.googlesource.com/dawn.git
+[submodule "third_party/externals/dng_sdk"]
+	path = third_party/externals/dng_sdk
+	url = https://android.googlesource.com/platform/external/dng_sdk.git
+[submodule "third_party/externals/egl-registry"]
+	path = third_party/externals/egl-registry
+	url = https://skia.googlesource.com/external/github.com/KhronosGroup/EGL-Registry
+[submodule "third_party/externals/expat"]
+	path = third_party/externals/expat
+	url = https://chromium.googlesource.com/external/github.com/libexpat/libexpat.git
+[submodule "third_party/externals/freetype"]
+	path = third_party/externals/freetype
+	url = https://skia.googlesource.com/third_party/freetype2.git
+[submodule "third_party/externals/glslang"]
+	path = third_party/externals/glslang
+	url = https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang
+[submodule "third_party/externals/harfbuzz"]
+	path = third_party/externals/harfbuzz
+	url = https://chromium.googlesource.com/external/github.com/harfbuzz/harfbuzz.git
+[submodule "third_party/externals/icu"]
+	path = third_party/externals/icu
+	url = https://chromium.googlesource.com/chromium/deps/icu.git
+[submodule "third_party/externals/imgui"]
+	path = third_party/externals/imgui
+	url = https://skia.googlesource.com/external/github.com/ocornut/imgui.git
+[submodule "third_party/externals/jinja2"]
+	path = third_party/externals/jinja2
+	url = https://chromium.googlesource.com/chromium/src/third_party/jinja2
+[submodule "third_party/externals/libgifcodec"]
+	path = third_party/externals/libgifcodec
+	url = https://skia.googlesource.com/libgifcodec
+[submodule "third_party/externals/libjpeg-turbo"]
+	path = third_party/externals/libjpeg-turbo
+	url = https://chromium.googlesource.com/chromium/deps/libjpeg_turbo.git
+[submodule "third_party/externals/libpng"]
+	path = third_party/externals/libpng
+	url = https://skia.googlesource.com/third_party/libpng.git
+[submodule "third_party/externals/libwebp"]
+	path = third_party/externals/libwebp
+	url = https://chromium.googlesource.com/webm/libwebp.git
+[submodule "third_party/externals/lua"]
+	path = third_party/externals/lua
+	url = https://skia.googlesource.com/external/github.com/lua/lua.git
+[submodule "third_party/externals/markupsafe"]
+	path = third_party/externals/markupsafe
+	url = https://chromium.googlesource.com/chromium/src/third_party/markupsafe
+[submodule "third_party/externals/microhttpd"]
+	path = third_party/externals/microhttpd
+	url = https://android.googlesource.com/platform/external/libmicrohttpd
+[submodule "third_party/externals/oboe"]
+	path = third_party/externals/oboe
+	url = https://chromium.googlesource.com/external/github.com/google/oboe.git
+[submodule "third_party/externals/opencl-lib"]
+	path = third_party/externals/opencl-lib
+	url = https://skia.googlesource.com/external/github.com/GPUOpen-Tools/common-lib-amd-APPSDK-3.0
+[submodule "third_party/externals/opencl-registry"]
+	path = third_party/externals/opencl-registry
+	url = https://skia.googlesource.com/external/github.com/KhronosGroup/OpenCL-Registry
+[submodule "third_party/externals/opengl-registry"]
+	path = third_party/externals/opengl-registry
+	url = https://skia.googlesource.com/external/github.com/KhronosGroup/OpenGL-Registry
+[submodule "third_party/externals/piex"]
+	path = third_party/externals/piex
+	url = https://android.googlesource.com/platform/external/piex.git
+[submodule "third_party/externals/sdl"]
+	path = third_party/externals/sdl
+	url = https://skia.googlesource.com/third_party/sdl
+[submodule "third_party/externals/sfntly"]
+	path = third_party/externals/sfntly
+	url = https://chromium.googlesource.com/external/github.com/googlei18n/sfntly.git
+[submodule "third_party/externals/shaderc"]
+	path = third_party/externals/shaderc
+	url = https://chromium.googlesource.com/external/github.com/google/shaderc
+[submodule "third_party/externals/spirv-cross"]
+	path = third_party/externals/spirv-cross
+	url = https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Cross
+[submodule "third_party/externals/spirv-headers"]
+	path = third_party/externals/spirv-headers
+	url = https://skia.googlesource.com/external/github.com/KhronosGroup/SPIRV-Headers.git
+[submodule "third_party/externals/spirv-tools"]
+	path = third_party/externals/spirv-tools
+	url = https://skia.googlesource.com/external/github.com/KhronosGroup/SPIRV-Tools.git
+[submodule "third_party/externals/swiftshader"]
+	path = third_party/externals/swiftshader
+	url = https://swiftshader.googlesource.com/SwiftShader
+[submodule "third_party/externals/wuffs"]
+	path = third_party/externals/wuffs
+	url = https://skia.googlesource.com/external/github.com/google/wuffs.git
+[submodule "third_party/externals/zlib"]
+	path = third_party/externals/zlib
+	url = https://chromium.googlesource.com/chromium/src/third_party/zlib
